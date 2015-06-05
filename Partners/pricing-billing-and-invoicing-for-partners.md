@@ -1,5 +1,5 @@
 {{{
-  "title": "Pricing, Billing and Invoicing for Partners",
+  "title": "Partner Billing and Invoicing Details ",
   "date": "2-11-2015",
   "author": "",
   "attachments": [
@@ -12,30 +12,11 @@
   "contentIsHTML": false
 }}}
 
-### Purpose
 
-Explain
-* How pricing is displayed in the CenturyLink Cloud Portal.
-* How partners are billed by CenturyLink. 
-* How partners invoice their customers.
-
-### Benefits
-* Ensures timely and accurate invoicing.
-* Improves customer satisfaction.
-
-### Intended Audience
-* Billing Team
-* Sales Operations
-* Sales
-
-### What’s Included
+### Overview
 * How pricing and discount data are displayed in the portal. 
 * Invoicing customers and special pricing scenarios.
 * Getting billing data and the schedule for receiving billing reports.
-
-### Partner Action Items
-* Understand the process for receiving billing data.
-* Send email alias of billing report recipient to Onboarding Manager.
 
 ---
 
@@ -77,7 +58,7 @@ If you want to charge a price higher than list price (because you are offering a
 **Method 2: API Integration (Optional)**
 
 **How It Works:** You can integrate with CenturyLink Cloud’s APIs to pull billing data automatically. 
-**Resources:** Find out more about these capabilities at the following link: https://t3n.zendesk.com/forums/20616692-Billing
+**Resources:** Find out more about these capabilities at the following link: https://www.centurylinkcloud.com/api-docs/v1/#billing
 
 
 ### Action Items

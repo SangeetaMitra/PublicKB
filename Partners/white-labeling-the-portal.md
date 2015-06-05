@@ -14,18 +14,6 @@ To explain:
 * Provide step-by-step instructions for white labeling the portal.
 
 
-### Benefits
-
-* Allows Partners to white label the CenturyLink Cloud as "their own."
-* Provides competitive point of differentiation to other public cloud offerings.
-* Reduces time and costs associated with developing your own cloud.
-
-### Audience
-
-* Marketing
-* Sales
-* Support 
-
 ### What's Included
 
 * The specific brand elements and information that can be white labeled in the portal.
@@ -37,9 +25,7 @@ To explain:
 Complete White Labeling the Portal including logos, colors, notifications and support elements and information.
 
 ---
-
-
-###What Is "White Labeling"?
+### What Is "White Labeling"?
 
 "White Labeling the Portal" simply means you can remove specific CenturyLink brand elements and information and replace them with you own:
 
@@ -74,7 +60,7 @@ This logo appears on the header of every page in the control portal.
   * For best results, make sure the logo is on a transparent background or the logo background matches the header background.
 2. Select the "save" button at the bottom of the page to apply the logo change. It may take a few minutes before your changes to take effect while the cache clears.
 
-####Customize the Sign In Page Logo
+#### Customize the Sign In Page Logo
 
 This logo appears on the sign in page to the control portal for accounts using custom domains.
 
@@ -83,7 +69,7 @@ This logo appears on the sign in page to the control portal for accounts using c
   * For best results, make sure the logo is on a transparent background or the logo background matches the header background.
 2. Select the "save" button at the bottom of the page to apply the logo change. It may take a few minutes before your changes to take effect while the cache clears.
 
-####Customize the Shorcut (Favicon) Icon
+#### Customize the Shorcut (Favicon) Icon
 
 The shortcut icon, or favicon, appears in some web browsers on the address bar, tabs or bookmarks.
 
@@ -92,7 +78,7 @@ The shortcut icon, or favicon, appears in some web browsers on the address bar, 
   * Use transparency (with ICO/PNG) to let the background show through.
 2. Select the "save" button at the bottom of the page to apply the logo change. It may take a few minutes before your changes to take effect while the cache clears.
 
-####Customize the iOS Home Screen Icon
+#### Customize the iOS Home Screen Icon
 
 This icon appears when you add a home screen icon for the Control Portal on your iOS device.
 
@@ -111,7 +97,7 @@ The colors used throughout the Control Portal can be changed to reflect your org
 4. Select "save" to commit the new color(s).
 
 
-###Email Notifications
+### Email Notifications
 
 You can change email notifications and replace the CenturyLink Cloud email alias with your own.
 
@@ -188,6 +174,9 @@ To change the the TRUSTe Certified Logo, do the following:
 1. Go to Account > Settings and select "Customer Support"
 2. Use the image editor, and click on the insert image icon (3rd from the right) to insert your image. Recommended image size is 142 pixels wide by 45 pixels high.
 
-###Action Items
+### Service Catalog
+The Service Catalog allows Account Administrators to enable or disable certain cloud platform services for users of the account. It also allows certain services to be enabled or disabled for individual sub accounts.
 
-Confirm with your Onboarding Manager when you've completed White Labeling the Portal.
+[Learn More About Service Catalog](../General/getting-started-with-the-service-catalog.md)
+
+

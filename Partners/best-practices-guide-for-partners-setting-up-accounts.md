@@ -124,4 +124,5 @@ The customer account will be removed from the portal by CenturyCloud Team after 
 The Service Catalog allows Account Administrators to enable or disable certain cloud platform services for users of the account. It also allows certain services to be enabled or disabled for individual sub accounts.
 
 [Learn More About how to use Service Catalog](../General/getting-started-with-the-service-catalog.md)
+
 [Service Catalog FAQ](../General/service-catalog-faq.md)

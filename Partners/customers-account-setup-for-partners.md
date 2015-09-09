@@ -44,7 +44,7 @@ When you add a new customer, you need to setup an account for that customer. Thi
 3. Fill in the required information.
 4. Click ‘create new user’ to commit changes.
 
-### Assigning Roles and Admininstrative Permissions
+### Assigning Roles and Administrative Permissions
 
 Control Portal permissions are controlled by adding users to one or more roles.  Roles are simply a collection of actions a user is allowed to perform to areas within the Control Portal.  
 
